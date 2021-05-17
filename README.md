@@ -1,4 +1,13 @@
-### Hi there 👋
+[![antville's 42 stats](https://badge42.herokuapp.com/api/stats/antville?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+|  ##  |			Name				| Result |
+|:----:|:----------------:|:------:|
+|  00  |libft							          | ![antville's libft Score](https://badge42.herokuapp.com/api/project/antville/Libft) |
+|  01  |netwhat     			          | ![antville's libft Score](https://badge42.herokuapp.com/api/project/antville/netwhat) |
+|  02  |get_next_line			          | ![antville's libft Score](https://badge42.herokuapp.com/api/project/antville/get_next_line) |
+|  03  |printf        		          | ![antville's libft Score](https://badge42.herokuapp.com/api/project/antville/ft_printf) |
+
+
+---### Hi there 👋
 
 <!--
 **tonyvillegas91/tonyvillegas91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
