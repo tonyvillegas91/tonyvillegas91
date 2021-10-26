@@ -2,7 +2,7 @@
 |  ##  |			Name				| Result |
 |:----:|:----------------:|:------:|
 |  00  |libft							          | ![antville's libft Score](https://badge42.herokuapp.com/api/project/antville/Libft) |
-|  01  |netwhat     			          | ![antville's libft Score](https://badge42.herokuapp.com/api/project/antville/netwhat) |
+|  01  |Born2beroot  			          | ![antville's libft Score](https://badge42.herokuapp.com/api/project/antville/Born2beroot) |
 |  02  |get_next_line			          | ![antville's libft Score](https://badge42.herokuapp.com/api/project/antville/get_next_line) |
 |  03  |printf        		          | ![antville's libft Score](https://badge42.herokuapp.com/api/project/antville/ft_printf) |
 
