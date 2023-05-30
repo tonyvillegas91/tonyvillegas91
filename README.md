@@ -1,8 +1,7 @@
-¡Hola! Soy Tony 👋
-Programador Junior | C | Python | HTML | CSS | Bootstrap
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/64533154?s=400&u=9906552c30e016e1111d9a91d96546d54c0be74f&v=4" alt="Imagen de perfil">
-</p>
+# **¡Hola! Soy Tony 👋**
+
+# *Programador Junior | C | Python | HTML | CSS | Bootstrap | JavaScript*
+
 ¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado programador junior con conocimientos en los siguientes lenguajes y tecnologías:
 
 <div align="center">
@@ -11,24 +10,28 @@ Programador Junior | C | Python | HTML | CSS | Bootstrap
   <img src="https://img.shields.io/badge/HTML-85%25-orange" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-80%25-yellow" alt="CSS">
   <img src="https://img.shields.io/badge/Bootstrap-70%25-purple" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/JavaScript-75%25-yellowgreen" alt="JavaScript">
 </div>
 Me encanta desarrollar soluciones creativas y eficientes para resolver problemas y explorar nuevas tecnologías.
 
-Proyectos Destacados 🚀
-Aquí puedes destacar algunos de tus proyectos más relevantes. Puedes añadir una breve descripción y los enlaces a los repositorios correspondientes.
+# *Habilidades 💪*
+Mis habilidades principales incluyen:
 
-Proyecto 1: 🌟 Una aplicación web desarrollada con HTML, CSS y Bootstrap para crear un sitio de comercio electrónico moderno y atractivo.
-Proyecto 2: 🔍 Un programa en C que implementa un algoritmo de búsqueda eficiente para grandes conjuntos de datos.
-Proyecto 3: 🐍 Una aplicación Python que automatiza tareas repetitivas y aumenta la productividad.
-Habilidades 💪
-Aquí puedes listar tus habilidades principales y proporcionar una breve descripción de cada una:
+💻 C: Programación de bajo nivel y optimización del rendimiento.
 
-C: 💻 Trabajo con C en un 90% de mis proyectos, utilizando su potencia para desarrollar soluciones eficientes y de bajo nivel.
-Python: 🐍 Utilizo Python en un 80% de mis proyectos, aprovechando su versatilidad y facilidad de uso para crear aplicaciones de todo tipo.
-HTML/CSS: 🌐 Tengo un amplio dominio de HTML y CSS, los cuales utilizo en un 85% y 80% respectivamente, para crear interfaces atractivas y responsivas.
-Bootstrap: 🎨 Utilizo Bootstrap en un 70% de mis proyectos, sacando partido de su biblioteca de componentes y estilos predefinidos.
-Contacto 📫
-Aquí puedes incluir tu información de contacto para que otros desarrolladores o reclutadores puedan comunicarse contigo:
+🐍 Python: Desarrollo de aplicaciones versátiles y potentes.
+
+🌐 HTML/CSS: Creación de interfaces atractivas y responsivas.
+
+🎨 Bootstrap: Diseño moderno y receptivo para aplicaciones web.
+
+☕️ JavaScript: Creación de interacciones dinámicas en aplicaciones web.
+
+
+# *Contacto 📫* 
 
 ✉️ Correo electrónico: tony.villegas91@gmail.com
-💼 Perfil de LinkedIn: Tu Perfil de LinkedIn
+
+💼 Perfil de LinkedIn: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/antoniovillegas91/)
+
+¡No dudes en contactarme si tienes alguna pregunta, proyecto interesante o simplemente quieres charlar sobre programación!
