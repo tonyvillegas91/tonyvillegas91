@@ -1,7 +1,7 @@
 ¡Hola! Soy Tony 👋
 Programador Junior | C | Python | HTML | CSS | Bootstrap
 <p align="center">
-  <img src="[[https://mi-imagen-de-perfil.jpg](https://github.com/account)](https://avatars.githubusercontent.com/u/64533154?s=400&u=9906552c30e016e1111d9a91d96546d54c0be74f&v=4)" alt="Imagen de perfil">
+  <img src="https://avatars.githubusercontent.com/u/64533154?s=400&u=9906552c30e016e1111d9a91d96546d54c0be74f&v=4" alt="Imagen de perfil">
 </p>
 ¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado programador junior con conocimientos en los siguientes lenguajes y tecnologías:
 
