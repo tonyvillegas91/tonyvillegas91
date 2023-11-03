@@ -23,9 +23,17 @@ Algunos de los proyectos que he realizado o estoy realizando en 42 son:
 
 🔥 Libft: Una biblioteca de funciones básicas en C que reutilizo en mis proyectos posteriores.
 
+📖 get_next_line: Es una función que lee una línea de un archivo usando un búfer de tamaño variable.
+
 🕷️ ft_printf: Una reimplementación de la función printf de la biblioteca estándar de C.
 
+🌍 FdF: El proyecto FdF de la escuela 42 es un programa que crea una imagen 3D de un mapa 2D usando una librería gráfica, segmentos y transformaciones lineales.
+
+🧪 pipex: Es un programa que simula el funcionamiento de las tuberías de UNIX para comunicar la salida de un comando con la entrada de otro.
+
 🧮 push_swap: Un algoritmo de ordenación que utiliza dos pilas y un conjunto limitado de operaciones.
+
+🍃 philosophers: Es un programa que simula el problema de los filósofos comensales, que consiste en coordinar a varios procesos que comparten recursos limitados (tenedores) y que deben alternar entre comer, pensar y dormir.
 
 🐚 minishell: Un intérprete de comandos simple que imita el funcionamiento del shell bash.
 
