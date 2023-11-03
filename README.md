@@ -29,8 +29,6 @@ Algunos de los proyectos que he realizado o estoy realizando en 42 son:
 
 🧮 push_swap: Un algoritmo de ordenación que utiliza dos pilas y un conjunto limitado de operaciones.
 
-🕸️ ft_server: Un servidor web que utiliza Docker, Nginx, Wordpress, PhpMyAdmin y MySQL.
-
 🕷️ ft_printf: Una reimplementación de la función printf de la biblioteca estándar de C.
 
 🌐 HTML/CSS: Una página web estática que muestra mi currículo y mis proyectos.
