@@ -23,13 +23,11 @@ Algunos de los proyectos que he realizado o estoy realizando en 42 son:
 
 🔥 Libft: Una biblioteca de funciones básicas en C que reutilizo en mis proyectos posteriores.
 
-🐚 minishell: Un intérprete de comandos simple que imita el funcionamiento del shell bash.
-
-🎲 printf: Una reimplementación de la función printf de la biblioteca estándar de C.
+🕷️ ft_printf: Una reimplementación de la función printf de la biblioteca estándar de C.
 
 🧮 push_swap: Un algoritmo de ordenación que utiliza dos pilas y un conjunto limitado de operaciones.
 
-🕷️ ft_printf: Una reimplementación de la función printf de la biblioteca estándar de C.
+🐚 minishell: Un intérprete de comandos simple que imita el funcionamiento del shell bash.
 
 🌐 HTML/CSS: Una página web estática que muestra mi currículo y mis proyectos.
 
