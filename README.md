@@ -14,6 +14,25 @@
 </div>
 Me encanta desarrollar soluciones creativas y eficientes para resolver problemas y explorar nuevas tecnologías.
 
+Estudiante de 42 🚀
+Actualmente soy estudiante de 42, una escuela de programación que no tiene profesores, horarios ni exámenes, sino que se basa en el aprendizaje por la práctica, la colaboración y el autoaprendizaje. En 42, estoy aprendiendo a programar desde cero, siguiendo un currículo que abarca desde los fundamentos del lenguaje C hasta el desarrollo web, pasando por la inteligencia artificial, la seguridad informática y la realidad virtual.
+
+Algunos de los proyectos que he realizado o estoy realizando en 42 son:
+
+🔥 Libft: Una biblioteca de funciones básicas en C que reutilizo en mis proyectos posteriores.
+
+🐚 minishell: Un intérprete de comandos simple que imita el funcionamiento del shell bash.
+
+🎲 printf: Una reimplementación de la función printf de la biblioteca estándar de C.
+
+🧮 push_swap: Un algoritmo de ordenación que utiliza dos pilas y un conjunto limitado de operaciones.
+
+🕸️ ft_server: Un servidor web que utiliza Docker, Nginx, Wordpress, PhpMyAdmin y MySQL.
+
+🕷️ ft_printf: Una reimplementación de la función printf de la biblioteca estándar de C.
+
+🌐 HTML/CSS: Una página web estática que muestra mi currículo y mis proyectos.
+
 # *Habilidades 💪*
 Mis habilidades principales incluyen:
 
