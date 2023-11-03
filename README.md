@@ -37,6 +37,8 @@ Algunos de los proyectos que he realizado o estoy realizando en 42 son:
 
 🐚 minishell: Un intérprete de comandos simple que imita el funcionamiento del shell bash.
 
+🎮 cub3d: Es un programa que recrea el juego Wolfenstein 3D usando raycasting, una técnica gráfica que genera una imagen 3D a partir de un mapa 2D.
+
 🌐 HTML/CSS: Una página web estática que muestra mi currículo y mis proyectos.
 
 
