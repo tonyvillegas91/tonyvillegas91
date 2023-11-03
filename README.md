@@ -27,7 +27,7 @@ Algunos de los proyectos que he realizado o estoy realizando en 42 son:
 
 🕷️ ft_printf: Una reimplementación de la función printf de la biblioteca estándar de C.
 
-🌍 FdF: El proyecto FdF de la escuela 42 es un programa que crea una imagen 3D de un mapa 2D usando una librería gráfica, segmentos y transformaciones lineales.
+🌍 FdF: Es un programa que crea una imagen 3D de un mapa 2D usando una librería gráfica, segmentos y transformaciones lineales.
 
 🧪 pipex: Es un programa que simula el funcionamiento de las tuberías de UNIX para comunicar la salida de un comando con la entrada de otro.
 
